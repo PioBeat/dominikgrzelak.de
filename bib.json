@@ -1,0 +1,1017 @@
+[
+  {
+    "DOI": "10.21105/joss.06491",
+    "URL": "https://doi.org/10.21105/joss.06491",
+    "author": [
+      {
+        "family": "Grzelak",
+        "given": "Dominik"
+      }
+    ],
+    "container-title": "Journal of Open Source Software",
+    "id": "Grzelak2024",
+    "issue": "98",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "page": "6491",
+    "publisher": "The Open Journal",
+    "title": "BiGGer: A Model Transformation Tool written in Java for Bigraph Rewriting in GrGen.NET",
+    "type": "article-journal",
+    "volume": "9"
+  },
+  {
+    "URL": "https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-910504",
+    "author": [
+      {
+        "family": "Grzelak",
+        "given": "Dominik"
+      }
+    ],
+    "genre": "PhD thesis",
+    "id": "DBLP:phd/dnb/Grzelak24",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "publisher": "Dresden University of Technology, Germany",
+    "title": "Model-oriented Programming with Bigraphical Reactive Systems: Theory and Implementation",
+    "type": "thesis"
+  },
+  {
+    "DOI": "10.1007/S42979-021-00552-5",
+    "URL": "https://doi.org/10.1007/s42979-021-00552-5",
+    "author": [
+      {
+        "family": "Grzelak",
+        "given": "Dominik"
+      },
+      {
+        "family": "Aßmann",
+        "given": "Uwe"
+      }
+    ],
+    "container-title": "SN Comput. Sci.",
+    "id": "DBLP:journals/sncs/GrzelakA21",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "page": "246",
+    "title": "A Canonical String Encoding for Pure Bigraphs",
+    "type": "article-journal",
+    "volume": "2"
+  },
+  {
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          1,
+          1
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Aßmann",
+        "given": "Uwe"
+      },
+      {
+        "family": "Baier",
+        "given": "Christel"
+      },
+      {
+        "family": "Dubslaff",
+        "given": "Clemens"
+      },
+      {
+        "family": "Grzelak",
+        "given": "Dominik"
+      },
+      {
+        "family": "Hanisch",
+        "given": "Simon"
+      },
+      {
+        "family": "Hartono",
+        "given": "Ardhi P. P."
+      },
+      {
+        "family": "Köpsell",
+        "given": "Stefan"
+      },
+      {
+        "family": "Lin",
+        "given": "Tianfang"
+      },
+      {
+        "family": "Strufe",
+        "given": "Thorsten"
+      }
+    ],
+    "chapter-number": "13",
+    "container-title": "Tactile Internet with Human-in-the-Loop",
+    "editor": [
+      {
+        "family": "Fitzek",
+        "given": "Frank H. P."
+      },
+      {
+        "family": "Li",
+        "given": "Shu-Chen"
+      },
+      {
+        "family": "Speidel",
+        "given": "Stefanie"
+      },
+      {
+        "family": "Strufe",
+        "given": "Thorsten"
+      },
+      {
+        "family": "Şimşek",
+        "given": "Meryem"
+      },
+      {
+        "family": "Reisslein",
+        "given": "Martin"
+      }
+    ],
+    "id": "CeTIBook-2020-Chap13",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          1,
+          1
+        ]
+      ]
+    },
+    "keyword": "",
+    "page": "301-326",
+    "publisher": "Academic Press",
+    "status": "published",
+    "title": "Tactile computing: Essential building blocks for the Tactile Internet",
+    "type": "chapter"
+  },
+  {
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          1,
+          1
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Aßmann",
+        "given": "Uwe"
+      },
+      {
+        "family": "Chen",
+        "given": "Lingyun"
+      },
+      {
+        "family": "Ebert",
+        "given": "Sebastian"
+      },
+      {
+        "family": "Göhringer",
+        "given": "Diana"
+      },
+      {
+        "family": "Grzelak",
+        "given": "Dominik"
+      },
+      {
+        "family": "Carvajal",
+        "given": "Diego X. Hidalgo"
+      },
+      {
+        "family": "Johannsmeier",
+        "given": "Lars"
+      },
+      {
+        "family": "Haddadin",
+        "given": "Sami"
+      },
+      {
+        "family": "Mey",
+        "given": "Johannes"
+      },
+      {
+        "family": "Podlubne",
+        "given": "Ariel"
+      }
+    ],
+    "chapter-number": "3",
+    "container-title": "Tactile Internet with Human-in-the-Loop",
+    "editor": [
+      {
+        "family": "Fitzek",
+        "given": "Frank H. P."
+      },
+      {
+        "family": "Li",
+        "given": "Shu-Chen"
+      },
+      {
+        "family": "Speidel",
+        "given": "Stefanie"
+      },
+      {
+        "family": "Strufe",
+        "given": "Thorsten"
+      },
+      {
+        "family": "Şimşek",
+        "given": "Meryem"
+      },
+      {
+        "family": "Reisslein",
+        "given": "Martin"
+      }
+    ],
+    "id": "CeTIBook-2020-Chap03",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          1,
+          1
+        ]
+      ]
+    },
+    "keyword": "",
+    "page": "41-75",
+    "publisher": "Academic Press",
+    "status": "published",
+    "title": "Human–robot co-habitation in industry",
+    "type": "chapter"
+  },
+  {
+    "DOI": "10.1007/s00287-020-01297-w",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          12,
+          1
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Seiger",
+        "given": "Ronny"
+      },
+      {
+        "family": "Aßmann",
+        "given": "Uwe"
+      },
+      {
+        "family": "Grzelak",
+        "given": "Dominik"
+      },
+      {
+        "family": "Belov",
+        "given": "Mikhail"
+      },
+      {
+        "family": "Riedel",
+        "given": "Paul"
+      },
+      {
+        "family": "Podlubne",
+        "given": "Ariel"
+      },
+      {
+        "family": "Zhao",
+        "given": "Wanqi"
+      },
+      {
+        "family": "Kerber",
+        "given": "Jens"
+      },
+      {
+        "family": "Mohr",
+        "given": "Jonas"
+      },
+      {
+        "family": "Espinosa",
+        "given": "Fabio"
+      },
+      {
+        "family": "Schwartz",
+        "given": "Tim"
+      }
+    ],
+    "container-title": "Informatik Spektrum",
+    "id": "seiger+amann++2020_immersives",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          12,
+          1
+        ]
+      ]
+    },
+    "keyword": "",
+    "page": "425-435",
+    "status": "published",
+    "title": "Immersives verteiltes Robotic Co-working",
+    "type": "article-journal",
+    "volume": "43"
+  },
+  {
+    "DOI": "10.1007/978-3-030-50726-8_5",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          1
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Kühn",
+        "given": "Romina"
+      },
+      {
+        "family": "Korzetz",
+        "given": "Mandy"
+      },
+      {
+        "family": "Grzelak",
+        "given": "Dominik"
+      },
+      {
+        "family": "Aßmann",
+        "given": "Uwe"
+      },
+      {
+        "family": "Schlegel",
+        "given": "Thomas"
+      }
+    ],
+    "collection-title": "Communications in Computer and Information Science",
+    "container-title": "HCI International 2020 – Posters",
+    "editor": [
+      {
+        "family": "Stephanidis",
+        "given": "Constantine"
+      },
+      {
+        "family": "Antona",
+        "given": "Margherita"
+      }
+    ],
+    "id": "rk+mk+dg+ua+ts_2020",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          1
+        ]
+      ]
+    },
+    "keyword": "",
+    "page": "35-43",
+    "publisher": "Springer",
+    "status": "published",
+    "title": "Towards interaction design for mobile devices in collocated mixed-focus collaboration",
+    "type": "chapter",
+    "volume": "1224"
+  },
+  {
+    "DOI": "10.1007/978-3-030-16577-2_9",
+    "ISBN": "978-3-030-16577-2",
+    "author": [
+      {
+        "family": "Grzelak",
+        "given": "Dominik"
+      },
+      {
+        "family": "Mai",
+        "given": "Carl"
+      },
+      {
+        "family": "Schöne",
+        "given": "René"
+      },
+      {
+        "family": "Falkenberg",
+        "given": "Jan"
+      },
+      {
+        "family": "Aßmann",
+        "given": "Uwe"
+      }
+    ],
+    "container-title": "Sensor Systems Simulations: From Concept to Solution",
+    "editor": [
+      {
+        "family": "Driel",
+        "given": "Willem Dirk",
+        "non-dropping-particle": "van"
+      },
+      {
+        "family": "Pyper",
+        "given": "Oliver"
+      },
+      {
+        "family": "Schumann",
+        "given": "Cornelia"
+      }
+    ],
+    "id": "grzelak_SoftwareToolkitComplex_2020",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          6,
+          19
+        ]
+      ]
+    },
+    "language": "en-US",
+    "page": "253-282",
+    "publisher": "Springer International Publishing",
+    "publisher-place": "Cham",
+    "title": "A Software Toolkit for Complex Sensor Systems in Fog Environments",
+    "type": "chapter"
+  },
+  {
+    "DOI": "10.2314/KXP:1683556526",
+    "author": [
+      {
+        "family": "Pyper",
+        "given": "Oliver"
+      },
+      {
+        "family": "Schulz",
+        "given": "Jörg"
+      },
+      {
+        "family": "Hebner",
+        "given": "Anja"
+      },
+      {
+        "family": "Albrecht",
+        "given": "Jan"
+      },
+      {
+        "family": "Weder",
+        "given": "Andreas"
+      },
+      {
+        "family": "Koch",
+        "given": "Sandro"
+      },
+      {
+        "family": "Heinig",
+        "given": "Andreas"
+      },
+      {
+        "family": "Wendland",
+        "given": "Georg"
+      },
+      {
+        "family": "Maurer",
+        "given": "Wilhelm"
+      },
+      {
+        "family": "Grzelak",
+        "given": "Dominik"
+      },
+      {
+        "family": "Müller",
+        "given": "Jens"
+      },
+      {
+        "family": "KG",
+        "given": "Infineon Technologies Dresden GmbH & Co"
+      },
+      {
+        "family": "AG",
+        "given": "Dr Födisch Umweltmesstechnik"
+      },
+      {
+        "family": "Nanosysteme",
+        "given": "Fraunhofer-Institut für Elektronische"
+      },
+      {
+        "family": "Mikrosysteme",
+        "given": "Fraunhofer-Institut für Photonische"
+      },
+      {
+        "family": "GmbH",
+        "given": "IMA Materialforschung und Anwendungstechnik"
+      },
+      {
+        "family": "AG",
+        "given": "Infineon Technologies"
+      },
+      {
+        "family": "Dresden",
+        "given": "Technische Universität"
+      },
+      {
+        "family": "GmbH",
+        "given": "XENON Automatisierungstechnik"
+      }
+    ],
+    "id": "pyper_IoSenseFlexibleSensorPilotlinien_2019",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "publisher": "Infineon Technologies Dresden GmbH & Co. KG",
+    "publisher-place": "Dresden",
+    "title": "IoSense - Flexible Sensor-Pilotlinien Für Das Internet Der Dinge : Verbundprojekt : Schlussbericht Gemäß NKBF 98 : Projektlaufzeit: 1. Mai 2016-30. April 2019",
+    "title-short": "IoSense - Flexible Sensor-Pilotlinien Für Das Internet Der Dinge",
+    "type": "report"
+  },
+  {
+    "URL": "https://solstice2019.loria.fr/wp-content/uploads/2019/07/Solstice-BookletAbstracts-v3.pdf#page=19",
+    "author": [
+      {
+        "family": "Grzelak",
+        "given": "Dominik"
+      },
+      {
+        "family": "Aßmann",
+        "given": "Uwe"
+      }
+    ],
+    "container-title": "Proceedings of the International Conference on Discrete Models of Complex Systems (SOLSTICE)",
+    "id": "grzelak.d.assmann.u:bigraphical",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          7,
+          1
+        ]
+      ]
+    },
+    "keyword": "",
+    "status": "published",
+    "title": "Bigraphical meta-modeling of fog computing-based systems",
+    "type": "paper-conference"
+  },
+  {
+    "URL": "https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-752170",
+    "author": [
+      {
+        "family": "Grzelak",
+        "given": "Dominik"
+      }
+    ],
+    "id": "grzelak2021",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          6,
+          25
+        ]
+      ]
+    },
+    "keyword": "",
+    "publisher": "Technische Universität Dresden",
+    "status": "published",
+    "title": "Bigraphical Domain-specific Language (BDSL): User Manual",
+    "type": "book"
+  },
+  {
+    "URL": "https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-849166",
+    "author": [
+      {
+        "family": "Grzelak",
+        "given": "Dominik"
+      }
+    ],
+    "id": "grzelak2023",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          4,
+          24
+        ]
+      ]
+    },
+    "keyword": "",
+    "status": "published",
+    "title": "A Bigraphical Vending Machine as a Webservice",
+    "type": "book"
+  },
+  {
+    "DOI": "10.5220/0009459503820391",
+    "author": [
+      {
+        "family": "Grzelak",
+        "given": "Dominik"
+      },
+      {
+        "family": "Aßmann",
+        "given": "Uwe"
+      }
+    ],
+    "container-title": "Proceedings of the 5th International Conference on Internet of Things, Big Data and Security, IoTBDS 2020, Prague, Czech Republic, May 7-9, 2020",
+    "editor": [
+      {
+        "family": "Wills",
+        "given": "Gary B."
+      },
+      {
+        "family": "Kacsuk",
+        "given": "Péter"
+      },
+      {
+        "family": "Chang",
+        "given": "Victor"
+      }
+    ],
+    "id": "DBLP:conf/iotbd/GrzelakA20",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "page": "382-391",
+    "publisher": "SCITEPRESS",
+    "title": "Preparatory Reflections on Safe Context-adaptive Software (Position Paper)",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.18178/ijimt.2019.10.4.853",
+    "ISSN": "20100248",
+    "author": [
+      {
+        "family": "Mai",
+        "given": "Carl"
+      },
+      {
+        "family": "Dominik Grzelak"
+      },
+      {
+        "family": "Zia",
+        "given": "Mariam"
+      },
+      {
+        "family": "Lemme",
+        "given": "Diana"
+      },
+      {
+        "family": "Aßmann",
+        "given": "Uwe"
+      }
+    ],
+    "container-title": "International Journal of Innovation, Management and Technology",
+    "container-title-short": "IJIMT",
+    "id": "mai_ArchitectureDistributedLean_2019",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "page": "147-154",
+    "title": "An Architecture for A Distributed Lean Innovation Management System",
+    "type": "article-journal",
+    "volume": "10"
+  },
+  {
+    "DOI": "10.1007/978-3-662-54734-2_4",
+    "ISBN": "978-3-662-54734-2",
+    "ISSN": "978-3-662-54733-5",
+    "author": [
+      {
+        "family": "Awiszus",
+        "given": "Birgit"
+      },
+      {
+        "family": "Götze",
+        "given": "Uwe"
+      },
+      {
+        "family": "Ihlenfeldt",
+        "given": "Steffen"
+      },
+      {
+        "family": "Kräusel",
+        "given": "Verena"
+      },
+      {
+        "family": "Landgrebe",
+        "given": "Dirk"
+      },
+      {
+        "family": "Rautenstrauch",
+        "given": "Anja"
+      },
+      {
+        "family": "Wiemer",
+        "given": "Hajo"
+      },
+      {
+        "family": "Boll",
+        "given": "Jeanette"
+      },
+      {
+        "family": "Freund",
+        "given": "Ronny"
+      },
+      {
+        "family": "Dominik Grzelak"
+      },
+      {
+        "family": "Markov",
+        "given": "Larisa"
+      },
+      {
+        "family": "Symmank",
+        "given": "Christina"
+      }
+    ],
+    "chapter-number": "13",
+    "container-title": "Technologiefusion für multifunktionale Leichtbaustrukturen, Ressourceneffizienz durch die Schlüsseltechnologie \"Leichtbau\"",
+    "editor": [
+      {
+        "family": "Kroll",
+        "given": "Lothar"
+      }
+    ],
+    "id": "MergeBook-2019-Chap4",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          1
+        ]
+      ]
+    },
+    "keyword": "",
+    "page": "240-265",
+    "publisher": "Springer Vieweg, Berlin, Heidelberg",
+    "title": "Ganzheitliche methodik zur bewertung von prozessketten",
+    "type": "chapter"
+  },
+  {
+    "ISBN": "978-3-95735-025-1",
+    "URL": "http://publica.fraunhofer.de/documents/N-366279.html",
+    "author": [
+      {
+        "family": "Landgrebe",
+        "given": "Dirk"
+      },
+      {
+        "family": "Rautenstrauch",
+        "given": "Anja"
+      },
+      {
+        "family": "Freund",
+        "given": "Ronny"
+      },
+      {
+        "family": "Dominik Grzelak"
+      },
+      {
+        "family": "Symmank",
+        "given": "Christina"
+      },
+      {
+        "family": "Götze",
+        "given": "Uwe"
+      },
+      {
+        "family": "Boll",
+        "given": "Jeanette"
+      },
+      {
+        "family": "Wiemer",
+        "given": "Hajo"
+      },
+      {
+        "family": "Awiszus",
+        "given": "Birgit"
+      }
+    ],
+    "container-title": "2nd International MERGE Technologies Conference, IMTC 2015",
+    "event": "International MERGE Technologies Conference (IMTC)",
+    "id": "landgrebe_RequirementsDesignConcepts_2015",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          10
+        ]
+      ]
+    },
+    "page": "339-341",
+    "publisher": "Auerbach/Vogtl.: Verlag Wissenschaftliche Scripten",
+    "publisher-place": "Technische Universität Chemnitz",
+    "title": "Requirements and Design Concepts of a Software Tool for a Multidimensional Analysis of Process Chains",
+    "type": "paper-conference"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2002.07448",
+    "author": [
+      {
+        "family": "Grzelak",
+        "given": "Dominik"
+      },
+      {
+        "family": "Priwitzer",
+        "given": "Barbara"
+      },
+      {
+        "family": "Aßmann",
+        "given": "Uwe"
+      }
+    ],
+    "container-title": "CoRR",
+    "id": "DBLP:journals/corr/abs-2002-07448",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "title": "Generating random bigraphs with preferential attachment",
+    "type": "article-journal",
+    "volume": "abs/2002.07448"
+  },
+  {
+    "DOI": "10.5220/0007414101970206",
+    "URL": "https://doi.org/10.5220/0007414101970206",
+    "author": [
+      {
+        "family": "Grzelak",
+        "given": "Dominik"
+      },
+      {
+        "family": "Mai",
+        "given": "Carl"
+      },
+      {
+        "family": "Aßmann",
+        "given": "Uwe"
+      }
+    ],
+    "container-title": "Proceedings of the 4th international conference on internet of things, big data and security, IoTBDS 2019, heraklion, crete, greece, may 2-4, 2019",
+    "editor": [
+      {
+        "family": "Ramachandran",
+        "given": "Muthu"
+      },
+      {
+        "family": "Walters",
+        "given": "Robert John"
+      },
+      {
+        "family": "Wills",
+        "given": "Gary B."
+      },
+      {
+        "family": "Muñoz",
+        "given": "Vı́ctor Méndez"
+      },
+      {
+        "family": "Chang",
+        "given": "Victor"
+      }
+    ],
+    "id": "DBLP:conf/iotbd/GrzelakMA19",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "page": "197-206",
+    "publisher": "SciTePress",
+    "title": "Towards a Software Architecture for Near Real-time Applications of IoT",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.1007/978-3-030-10801-4_1",
+    "author": [
+      {
+        "family": "Aßmann",
+        "given": "Uwe"
+      },
+      {
+        "family": "Grzelak",
+        "given": "Dominik"
+      },
+      {
+        "family": "Mey",
+        "given": "Johannes"
+      },
+      {
+        "family": "Pukhkaiev",
+        "given": "Dmytro"
+      },
+      {
+        "family": "Schöne",
+        "given": "René"
+      },
+      {
+        "family": "Werner",
+        "given": "Christopher"
+      },
+      {
+        "family": "Püschel",
+        "given": "Georg"
+      }
+    ],
+    "collection-title": "Lecture Notes in Computer Science",
+    "container-title": "SOFSEM 2019: Theory and Practice of Computer Science - 45th International Conference on Current Trends in Theory and Practice of Computer Science, Nový Smokovec, Slovakia, January 27-30, 2019, Proceedings",
+    "editor": [
+      {
+        "family": "Catania",
+        "given": "Barbara"
+      },
+      {
+        "family": "Královic",
+        "given": "Rastislav"
+      },
+      {
+        "family": "Nawrocki",
+        "given": "Jerzy R."
+      },
+      {
+        "family": "Pighizzini",
+        "given": "Giovanni"
+      }
+    ],
+    "id": "DBLP:conf/sofsem/AssmannGMPSWP19",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "page": "1-20",
+    "publisher": "Springer",
+    "title": "Cross-Layer Adaptation in Multi-layer Autonomic Systems (Invited Talk)",
+    "type": "paper-conference",
+    "volume": "11376"
+  },
+  {
+    "author": [
+      {
+        "family": "Grzelak",
+        "given": "Dominik"
+      }
+    ],
+    "collection-title": "LNI",
+    "container-title": "Informatiktage 2012 - Fachwissenschaftlicher Informatik-Kongress 23. und 24. März 2012, B-IT Bonn-Aachen International Center for Information Technology in Bonn",
+    "id": "DBLP:conf/informatiktage/Grzelak12",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "page": "47-50",
+    "publisher": "GI",
+    "title": "Automatisierte Erkennung von Influencern im Social Web",
+    "type": "paper-conference",
+    "volume": "S-11"
+  }
+]
