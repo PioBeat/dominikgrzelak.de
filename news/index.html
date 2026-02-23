@@ -1,139 +1,29 @@
-<!doctype html>
-<html class="not-ready lg:text-base" style=--bg:#fbffed lang=en-us>
-<head>
-    <meta charset=utf-8>
-    <meta http-equiv=X-UA-Compatible content="IE=edge">
-    <meta name=viewport content="width=device-width,initial-scale=1,shrink-to-fit=no">
-    <title>Research - Dominik Grzelak</title>
-    <meta name=theme-color>
-    <meta name=description
-          content="ORCiD Google Scholar dblp Book Chapters Publications D. Grzelak, BiGGer: A Model Transformation Tool written in Java for Bigraph Rewriting in GrGen.NET, Journal of Open Source Software, vol. 9, no. 98, p. 6491, 2024. doi:10.21105/joss.06491D. Grzelak, Model-oriented Programming with Bigraphical Reactive Systems: Theory and Implementation. Dresden University of Technology, Germany, 2024. [Online]. Available: https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-910504  D. Grzelak, A Bigraphical Vending Machine as a Webservice, 2023. [Online]. Available: https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-849166  D. Grzelak and U. Aßmann, A Canonical String Encoding for Pure Bigraphs, SN Comput. Sci., vol. 2, no. 4, p. 246, 2021.">
-    <meta name=author content="Dominik Grzelak">
-    <link rel="preload stylesheet" as=style href=https://dominikgrzelak.de/main.min.css>
-    <link rel=preload as=image href=https://dominikgrzelak.de/theme.png>
-    <link rel=preload as=image href=https://dominikgrzelak.de/github.svg>
-    <script defer src=https://dominikgrzelak.de/highlight.min.js onload=hljs.initHighlightingOnLoad()></script>
-    <link rel=stylesheet href=https://cdn.jsdelivr.net/npm/katex@0.16.7/dist/katex.min.css
-          integrity=sha384-3UiQGuEI4TTMaFmGIZumfRPtfKQ3trwQE2JgosJxCnGmQpL/lJdjpcHkaaFwHlcI crossorigin=anonymous>
-    <script defer src=https://cdn.jsdelivr.net/npm/katex@0.16.7/dist/katex.min.js
-            integrity=sha384-G0zcxDFp5LWZtDuRMnBkk3EphCK1lhEf4UEyEM693ka574TZGwo4IWwS6QLzM/2t
-            crossorigin=anonymous></script>
-    <script defer src=https://cdn.jsdelivr.net/npm/katex@0.16.7/dist/contrib/auto-render.min.js
-            integrity=sha384-+VBxd3r6XgURycqtZ117nYw44OOcIax56Z4dCRWbxyPt0Koah1uHoK0o4+/RRE05
-            crossorigin=anonymous></script>
-    <script>document.addEventListener("DOMContentLoaded", () => renderMathInElement(document.body, {
-        delimiters: [{
-            left: "$$",
-            right: "$$",
-            display: !0
-        }, {left: "$", right: "$", display: !1}], throwOnError: !1
-    }))</script>
-    <link rel=icon href=https://dominikgrzelak.de/favicon.ico>
-    <link rel=apple-touch-icon href=https://dominikgrzelak.de/apple-touch-icon.png>
-    <meta name=generator content="Hugo 0.133.0">
-    <meta itemprop=name content="Research">
-    <meta itemprop=description content="Publications, supervision, lectures, courses">
-    <meta itemprop=wordCount content="681">
-    <meta property="og:url" content="https://dominikgrzelak.de/research/">
-    <meta property="og:site_name" content="Dominik Grzelak">
-    <meta property="og:title" content="Research">
-    <meta property="og:description" content="Publications, supervision, lectures, courses">
-    <meta property="og:locale" content="en_us">
-    <meta property="og:type" content="article">
-    <meta name=twitter:card content="summary">
-    <meta name=twitter:title content="Research">
-    <meta name=twitter:description content="Publications, supervision, lectures, courses">
-    <link rel=canonical href=https://dominikgrzelak.de/research/>
-</head>
-<body class="text-black duration-200 ease-out dark:text-white">
-<header class="mx-auto flex h-[4.5rem] max-w-[--w] px-5 lg:justify-center">
-    <div class="relative z-50 mr-auto flex items-center"><a class="-translate-y-[1px] text-2xl font-medium"
-                                                            href=https://dominikgrzelak.de/>Dominik Grzelak</a>
-        <div class="btn-dark text-[0] ml-4 h-6 w-6 shrink-0 cursor-pointer [background:url(./theme.png)_left_center/_auto_theme('spacing.6')_no-repeat] [transition:_background-position_0.4s_steps(5)] dark:[background-position:right]"
-             role=button aria-label=Dark></div>
-    </div>
-    <div class="btn-menu relative z-50 -mr-8 flex h-[4.5rem] w-[5rem] shrink-0 cursor-pointer flex-col items-center justify-center gap-2.5 lg:hidden"
-         role=button aria-label=Menu></div>
-    <script>const htmlClass = document.documentElement.classList;
-    setTimeout(() => {
-        htmlClass.remove("not-ready")
-    }, 10);
-    const btnMenu = document.querySelector(".btn-menu");
-    btnMenu.addEventListener("click", () => {
-        htmlClass.toggle("open")
-    });
-    const metaTheme = document.querySelector('meta[name="theme-color"]'), lightBg = "#fbffed".replace(/"/g, ""),
-        setDark = e => {
-            metaTheme.setAttribute("content", e ? "#000" : lightBg), htmlClass[e ? "add" : "remove"]("dark"), localStorage.setItem("dark", e)
-        }, darkScheme = window.matchMedia("(prefers-color-scheme: dark)");
-    if (htmlClass.contains("dark")) setDark(!0); else {
-        const e = localStorage.getItem("dark");
-        setDark(e ? e === "true" : darkScheme.matches)
-    }
-    darkScheme.addEventListener("change", e => {
-        setDark(e.matches)
-    });
-    const btnDark = document.querySelector(".btn-dark");
-    btnDark.addEventListener("click", () => {
-        setDark(localStorage.getItem("dark") !== "true")
-    })</script>
-    <div class="nav-wrapper fixed inset-x-0 top-full z-40 flex h-full select-none flex-col justify-center pb-16 duration-200 dark:bg-black lg:static lg:h-auto lg:flex-row lg:!bg-transparent lg:pb-0 lg:transition-none">
-        <nav class="lg:ml-12 lg:flex lg:flex-row lg:items-center lg:space-x-10"><a
-                class="block text-center text-xl leading-[5rem] lg:text-base lg:font-normal" href=/contact/>Contact</a>
-            <a class="block text-center text-xl leading-[5rem] lg:text-base lg:font-normal" href=/research/>Research</a>
-            <a class="block text-center text-xl leading-[5rem] lg:text-base lg:font-normal" href=/software/>Software</a>
-            <a class="block text-center text-xl leading-[5rem] lg:text-base lg:font-normal" href=/news/>News</a></nav>
-        <nav class="mt-12 flex justify-center space-x-10 dark:invert lg:ml-14 lg:mt-0 lg:items-center"><a
-                class="h-7 w-7 text-[0] [background:var(--url)_center_center/cover_no-repeat] lg:h-6 lg:w-6"
-                style=--url:url(./github.svg) href=https://github.com/PioBeat target=_blank rel=me>github</a></nav>
-    </div>
-</header>
-<main class="prose prose-neutral relative mx-auto min-h-[calc(100%-9rem)] max-w-[--w] px-8 pb-16 pt-14 dark:prose-invert">
-    <article>
-        <header class=mb-14><h1 class="!my-0 pb-2.5">News</h1></header>
-        <section>
-            <!-- <h2 id=work>Work</h2> -->
-            <ul>
-                <li><a href="https://www.linkedin.com/posts/dominik-grzelak-663653359_i-recently-had-the-pleasure-of-organising-activity-7381592870194999297-wBt-">"Bigraph Workshop: Bigraphs and Cyber-physical Spaces"</a>, Oct '25</li>
-                <li>Received one-year complimentary ACM membership, Aug '25</li>
-                <li>PC member of GCM 2025</li>
-                <li>Co-Chair of GCM 2024</li>
-                <li>Associate Member of the Research Training Group AirMetro (TUD) since 2024</li>
-                <li>Active Participation in Building Planning Initiatives (Smart Mobility Lab, Lehmann-Zentrum II)
-                </li>
-                <li>Jury member of the FIRST LEGO League in Dresden, 2022</li>
-                <li>Supervised the first Master Thesis defended in Virtual Reality, Dresden, 2021</li>
-                <li>Celebrating the anniversary of &ldquo;50 Years of Computer Science Education in Dresden&rdquo; in
-                    2019
-                    <ul>
-                        <li>Software Lead for Saxony&rsquo;s first distributed robotic demonstrator with
-                            human-in-the-loop across six cities in Germany
-                        </li>
-                        <li>See Video <a href="https://www.youtube.com/watch?v=xdVLXTFtaJY&amp;t=144s">&ldquo;Deutschlandcampus
-                            der Informatik 2069 - Demo einer kollaborativen und verteilten Roboterarbeit&rdquo;</a></li>
-                        <li>See Paper <a href=https://link.springer.com/article/10.1007/s00287-020-01297-w>&ldquo;Immersives
-                            verteiltes Robotic Co-working&rdquo;</a></li>
-                    </ul>
-                </li>
-                <li>Elected Member of the Institute Council of the Institute of Software and Multimedia Technology at
-                    the Faculty of Computer Science (TUD), 2019-2025
-                </li>
-            </ul>
-        </section>
-    </article>
-</main>
-
-
-
-    <footer
-  class="mx-auto flex h-[4.5rem] max-w-[--w] items-center px-8 text-xs uppercase tracking-wider opacity-60"
->
-  <div class="mr-auto">
-  
-    © 2026, Dr.-Ing. Dominik Grzelak
-  
-  </div>
-</footer>
-<script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
-  </body>
-</html>
+<!doctypehtml><html class="lg:text-base not-ready"lang=en-us style=--bg:#fbffed><meta charset=utf-8><meta content="IE=edge"http-equiv=X-UA-Compatible><meta content="width=device-width,initial-scale=1,shrink-to-fit=no"name=viewport><title>Research - Dominik Grzelak</title><meta name=theme-color><meta content="ORCiD Google Scholar dblp Book Chapters Publications D. Grzelak, BiGGer: A Model Transformation Tool written in Java for Bigraph Rewriting in GrGen.NET, Journal of Open Source Software, vol. 9, no. 98, p. 6491, 2024. doi:10.21105/joss.06491D. Grzelak, Model-oriented Programming with Bigraphical Reactive Systems: Theory and Implementation. Dresden University of Technology, Germany, 2024. [Online]. Available: https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-910504  D. Grzelak, A Bigraphical Vending Machine as a Webservice, 2023. [Online]. Available: https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-849166  D. Grzelak and U. Aßmann, A Canonical String Encoding for Pure Bigraphs, SN Comput. Sci., vol. 2, no. 4, p. 246, 2021."name=description><meta content="Dominik Grzelak"name=author><link href=https://dominikgrzelak.de/main.min.css rel="preload stylesheet"as=style><link href=https://dominikgrzelak.de/theme.png rel=preload as=image><link href=https://dominikgrzelak.de/github.svg rel=preload as=image><script src=https://dominikgrzelak.de/highlight.min.js defer onload=hljs.initHighlightingOnLoad()></script><link href=https://cdn.jsdelivr.net/npm/katex@0.16.7/dist/katex.min.css rel=stylesheet crossorigin=anonymous integrity=sha384-3UiQGuEI4TTMaFmGIZumfRPtfKQ3trwQE2JgosJxCnGmQpL/lJdjpcHkaaFwHlcI><script src=https://cdn.jsdelivr.net/npm/katex@0.16.7/dist/katex.min.js defer crossorigin=anonymous integrity=sha384-G0zcxDFp5LWZtDuRMnBkk3EphCK1lhEf4UEyEM693ka574TZGwo4IWwS6QLzM/2t></script><script src=https://cdn.jsdelivr.net/npm/katex@0.16.7/dist/contrib/auto-render.min.js defer crossorigin=anonymous integrity=sha384-+VBxd3r6XgURycqtZ117nYw44OOcIax56Z4dCRWbxyPt0Koah1uHoK0o4+/RRE05></script><script>document.addEventListener("DOMContentLoaded", () => renderMathInElement(document.body, {
+    delimiters: [{
+        left: "$$",
+        right: "$$",
+        display: !0
+    }, {left: "$", right: "$", display: !1}], throwOnError: !1
+}))</script><link href=https://dominikgrzelak.de/favicon.ico rel=icon><link href=https://dominikgrzelak.de/apple-touch-icon.png rel=apple-touch-icon><meta content="Hugo 0.133.0"name=generator><meta content=Research itemprop=name><meta content="Publications, supervision, lectures, courses"itemprop=description><meta content=681 itemprop=wordCount><meta content=https://dominikgrzelak.de/research/ property=og:url><meta content="Dominik Grzelak"property=og:site_name><meta content=Research property=og:title><meta content="Publications, supervision, lectures, courses"property=og:description><meta content=en_us property=og:locale><meta content=article property=og:type><meta content=summary name=twitter:card><meta content=Research name=twitter:title><meta content="Publications, supervision, lectures, courses"name=twitter:description><link href=https://dominikgrzelak.de/research/ rel=canonical><body class="duration-200 dark:text-white ease-out text-black"><header class="flex h-[4.5rem] max-w-[--w] mx-auto lg:justify-center px-5"><div class="flex items-center relative z-50 mr-auto"><a href=https://dominikgrzelak.de/ class="-translate-y-[1px] font-medium text-2xl">Dominik Grzelak</a><div class="cursor-pointer shrink-0 [background:url(./theme.png)_left_center/_auto_theme('spacing.6')_no-repeat] [transition:_background-position_0.4s_steps(5)] btn-dark dark:[background-position:right] h-6 ml-4 text-[0] w-6"aria-label=Dark role=button></div></div><div class="flex h-[4.5rem] items-center -mr-8 btn-menu cursor-pointer flex-col gap-2.5 justify-center lg:hidden relative shrink-0 w-[5rem] z-50"aria-label=Menu role=button></div><script>const htmlClass = document.documentElement.classList;
+setTimeout(() => {
+    htmlClass.remove("not-ready")
+}, 10);
+const btnMenu = document.querySelector(".btn-menu");
+btnMenu.addEventListener("click", () => {
+    htmlClass.toggle("open")
+});
+const metaTheme = document.querySelector('meta[name="theme-color"]'), lightBg = "#fbffed".replace(/"/g, ""),
+    setDark = e => {
+        metaTheme.setAttribute("content", e ? "#000" : lightBg), htmlClass[e ? "add" : "remove"]("dark"), localStorage.setItem("dark", e)
+    }, darkScheme = window.matchMedia("(prefers-color-scheme: dark)");
+if (htmlClass.contains("dark")) setDark(!0); else {
+    const e = localStorage.getItem("dark");
+    setDark(e ? e === "true" : darkScheme.matches)
+}
+darkScheme.addEventListener("change", e => {
+    setDark(e.matches)
+});
+const btnDark = document.querySelector(".btn-dark");
+btnDark.addEventListener("click", () => {
+    setDark(localStorage.getItem("dark") !== "true")
+})</script><div class="flex justify-center flex-col dark:bg-black duration-200 fixed h-full inset-x-0 lg:!bg-transparent lg:flex-row lg:h-auto lg:pb-0 lg:static lg:transition-none nav-wrapper pb-16 select-none top-full z-40"><nav class="lg:items-center lg:flex lg:flex-row lg:ml-12 lg:space-x-10"><a href=/contact/ class="lg:text-base block leading-[5rem] lg:font-normal text-center text-xl">Contact</a> <a href=/research/ class="lg:text-base block leading-[5rem] lg:font-normal text-center text-xl">Research</a> <a href=/software/ class="lg:text-base block leading-[5rem] lg:font-normal text-center text-xl">Software</a> <a href=/news/ class="lg:text-base block leading-[5rem] lg:font-normal text-center text-xl">News</a></nav><nav class="flex justify-center dark:invert lg:items-center lg:ml-14 lg:mt-0 mt-12 space-x-10"><a href=https://github.com/PioBeat class="text-[0] [background:var(--url)_center_center/cover_no-repeat] h-7 lg:h-6 lg:w-6 w-7"rel=me style=--url:url(github.svg) target=_blank>github</a></nav></div></header><main class="max-w-[--w] mx-auto px-8 dark:prose-invert min-h-[calc(100%-9rem)] pb-16 prose prose-neutral pt-14 relative"><article><header class=mb-14><h1 class="!my-0 pb-2.5">News</h1></header><section><ul><li>PC member of GCM 2026<li><a href=https://www.linkedin.com/posts/dominik-grzelak-663653359_i-recently-had-the-pleasure-of-organising-activity-7381592870194999297-wBt->"Bigraph Workshop: Bigraphs and Cyber-physical Spaces"</a>, Oct '25<li>Received one-year complimentary ACM membership, Aug '25<li>PC member of GCM 2025<li>Co-Chair of GCM 2024<li>Associate Member of the Research Training Group AirMetro (TUD) since 2024<li>Active Participation in Building Planning Initiatives (Smart Mobility Lab, Lehmann-Zentrum II)<li>Jury member of the FIRST LEGO League in Dresden, 2022<li>Supervised the first Master Thesis defended in Virtual Reality, Dresden, 2021<li>Celebrating the anniversary of “50 Years of Computer Science Education in Dresden” in 2019<ul><li>Software Lead for Saxony’s first distributed robotic demonstrator with human-in-the-loop across six cities in Germany<li>See Video <a href="https://www.youtube.com/watch?v=xdVLXTFtaJY&t=144s">“Deutschlandcampus der Informatik 2069 - Demo einer kollaborativen und verteilten Roboterarbeit”</a><li>See Paper <a href=https://link.springer.com/article/10.1007/s00287-020-01297-w>“Immersives verteiltes Robotic Co-working”</a></ul><li>Elected Member of the Institute Council of the Institute of Software and Multimedia Technology at the Faculty of Computer Science (TUD), 2019-2025</ul></section></article></main><footer class="flex h-[4.5rem] items-center max-w-[--w] mx-auto opacity-60 px-8 text-xs tracking-wider uppercase"><div class=mr-auto>© 2026, Dr.-Ing. Dominik Grzelak</div></footer><script src=https://scripts.simpleanalyticscdn.com/latest.js async></script>
